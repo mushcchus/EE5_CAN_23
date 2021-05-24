@@ -1,0 +1,17 @@
+dgus.c:20:6:Send_cmd	32	static
+dgus.c:25:6:Send_cmd2	32	static
+dgus.c:30:6:Send_throttle_cmd	40	static
+dgus.c:36:6:Send_brake_cmd	40	static
+dgus.c:42:6:Send_graph_cmd	48	static
+dgus.c:50:6:Send_brake	96	static
+dgus.c:56:6:Send_throttle	24	static
+dgus.c:62:9:Get_time	24	static
+dgus.c:69:6:Send_position	24	static
+dgus.c:73:6:Send_speed	24	static
+dgus.c:78:6:Send_totalLap	24	static
+dgus.c:82:6:Send_currentLap	24	static
+dgus.c:86:6:Send_gear	24	static
+dgus.c:90:6:Send_cTime	32	static
+dgus.c:95:6:Send_bTime	32	static
+dgus.c:105:6:Send_pTime	24	static
+dgus.c:110:6:Send_light	32	static

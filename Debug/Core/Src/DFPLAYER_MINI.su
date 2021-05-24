@@ -1,0 +1,12 @@
+DFPLAYER_MINI.c:46:6:Send_cmdA	32	static
+DFPLAYER_MINI.c:56:6:DF_PlayFromStart	8	static
+DFPLAYER_MINI.c:63:6:DF_Init	16	static
+DFPLAYER_MINI.c:71:6:DF_Next	8	static
+DFPLAYER_MINI.c:77:6:DF_Pause	8	static
+DFPLAYER_MINI.c:83:6:DF_Previous	8	static
+DFPLAYER_MINI.c:89:6:DF_Playback	8	static
+DFPLAYER_MINI.c:95:6:DF_IncreaseV	8	static
+DFPLAYER_MINI.c:101:6:DF_DecreaseV	8	static
+DFPLAYER_MINI.c:107:6:DF_SafetyCar	8	static
+DFPLAYER_MINI.c:111:6:DF_BestLap	8	static
+DFPLAYER_MINI.c:115:6:DF_LastLap	8	static
